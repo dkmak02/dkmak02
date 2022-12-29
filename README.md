@@ -1,7 +1,6 @@
  <h1>Hi, I’m Dawid 👋</h1>
  
 - 👀 I’m interested in modern web and mobile applications.
-- 🌱 I’m currently learning Java, JavaScript, React and Nodejs. 
 - 🔭 Right now i am trying to improve my abilities in Java.
 - 📫 How to reach me:  
   - Email: dkmak02@gmail.com

@@ -12,7 +12,7 @@
 <img src="https://blog.consdata.tech/assets/img/posts/2019-03-22-java-darmowa-czy-nie/java-darmowa.png" width="35" height="35"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="35" height="35"/>
 <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo=w240-h480-rw" width="35" height="35"/>
-<img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" width="35"
+<img src="[https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F29%2FPostgresql_elephant.svg%2F1200px-Postgresql_elephant.svg.png&tbnid=21pe7G18KVDAmM&vet=12ahUKEwi9rtvt-uX9AhXLuyoKHR1JAzkQMygAegUIARDAAQ..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPostgreSQL&docid=EAg7JjHdADobyM&w=1200&h=1238&itg=1&q=postgres&ved=2ahUKEwi9rtvt-uX9AhXLuyoKHR1JAzkQMygAegUIARDAAQ)" width="35"
   height="35"/>
  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="35"
   height="35"/>

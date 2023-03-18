@@ -7,6 +7,11 @@
   - [Facebook](https://www.facebook.com/dawid.kmak.54)
   - [Linkedin](https://www.linkedin.com/in/dawid-kmak-07ba86269/)
 
+
+
+
+
+---
 <h2>Languages and Tools:<h2>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="35"/>

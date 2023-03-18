@@ -5,6 +5,7 @@
 - 📫 How to reach me:  
   - Email: dkmak02@gmail.com
   - [Facebook](https://www.facebook.com/dawid.kmak.54)
+  - [Linkedin](https://www.linkedin.com/in/dawid-kmak-07ba86269/)
 
 <h2>Languages and Tools:<h2>
 

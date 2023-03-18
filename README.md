@@ -12,8 +12,8 @@
 <img src="https://blog.consdata.tech/assets/img/posts/2019-03-22-java-darmowa-czy-nie/java-darmowa.png" width="35" height="35"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="35" height="35"/>
 <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo=w240-h480-rw" width="35" height="35"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="35"
-  height="35"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="35"height="35"/>
+<img src="https://vm.pl/assets/media/technologie/c-sharp/header-c-sharp.svg" width="35"height="35"/>
  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="35"
   height="35"/>
  

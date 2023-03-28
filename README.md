@@ -1,7 +1,7 @@
  <h1>Hi, I’m Dawid 👋</h1>
  
 - 👀 I’m interested in modern web and machine learning.
-- 🔭 Right now i am trying to improve my abilities in C#.
+- 🔭 Right now i am trying to improve my abilities in C# and also looking forward to learn React.
 - 📫 How to reach me:  
   - Email: dkmak02@gmail.com
   - [Facebook](https://www.facebook.com/dawid.kmak.54)
@@ -23,9 +23,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" width="35"height="35"/>
  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="35"
   height="35"/>
+ <!---
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="35"
   height="35"/>
- 
+ --->
 
 <!---
 dkmak02/dkmak02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

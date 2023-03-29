@@ -1,7 +1,7 @@
  <h1>Hi, I’m Dawid 👋</h1>
  
 - 👀 I’m interested in modern web and machine learning.
-- 🔭 Right now i am trying to improve my abilities in C# and also looking forward to learn React.
+- 🔭 Right now i am trying to improve my abilities in C#, JS and also looking forward to learn React.
 - 📫 How to reach me:  
   - Email: dkmak02@gmail.com
   - [Facebook](https://www.facebook.com/dawid.kmak.54)

@@ -1,7 +1,8 @@
  <h1>Hi, I’m Dawid 👋</h1>
  
-- 👀 I’m interested in modern web and machine learning.
-- 🔭 Right now i am trying to improve my abilities in C# and Python.
+- 👀 I'm a backend developer
+- 🔭 Right now i am trying to improve my abilities in C#.
+- ✨ Additionally, I'm working on my own project and learning Golang
 
 
 <!---
